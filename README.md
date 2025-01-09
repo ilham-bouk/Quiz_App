@@ -1,7 +1,5 @@
 # Quiz_App
 
-# CRUDS
-
 ## Welcome! 👋
 
 ## Table of contents
@@ -19,8 +17,8 @@
 
 ### Links
 
-- Repository URL: [Repo URL](https://github.com/ilham-bouk/CRUDS)
-- Live Site URL: [Live Site](https://ilham-bouk.github.io/CRUDS/)
+- Repository URL: [Repo URL](https://github.com/ilham-bouk/Quiz_App)
+- Live Site URL: [Live Site](https://ilham-bouk.github.io/Quiz_App/)
 
 ## My process
 
