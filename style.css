@@ -93,6 +93,13 @@ body {
 .quiz-app .bullets .spans span.on {
   background-color: #0075FF;
 }
+.quiz-app .results {
+  padding: 10px;
+  background-color: white;
+  margin-top: 10px;
+  font-size: 20px;
+  text-align: center;  
+}
 .quiz-app .results span {
   font-weight: bold;
 }
