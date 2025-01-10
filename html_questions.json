@@ -56,14 +56,6 @@
     "right_answer": "<!DOCTYPE html>"
   },
   {
-    "title": "What Is The Element Thats Not Exists in HTML5 Semantics",
-    "answer_1": "<article>",
-    "answer_2": "<section>",
-    "answer_3": "<blockquote>",
-    "answer_4": "<aside>",
-    "right_answer": "<blockquote>"
-  },
-  {
     "title": "In HTML Can We Use This Way To Add Attributes",
     "answer_1": "<div class='class-name'>",
     "answer_2": "<div class=class-name>",
