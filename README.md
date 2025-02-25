@@ -1,6 +1,7 @@
-# Quiz_App
+# Quiz App
 
 ## Welcome! 👋
+![Quiz App Screenshot](./Screenshot.png)
 
 ## Table of contents
 
@@ -41,6 +42,6 @@
 
 ## Acknowledgments
 
-A big thank you to anyone providing feedback. It definitely helps to find new ways to code and find easier solutions!
+If you have any questions or need further assistance, feel free to open an issue on GitHub or contact me directly. Your contributions and feedback are highly appreciated!
 
 **Happy coding!** ☺️🚀
